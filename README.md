@@ -71,5 +71,5 @@ Este projeto foi desenvolvido com o objetivo de praticar conceitos fundamentais 
 
 ## 👨‍💻 Autor
 
-Leonardo Silva
+Leonardo Maia
 GitHub: https://github.com/Leomaia07
