@@ -1,4 +1,4 @@
-# 📒 Agenda de Contatos em Python
+## 📒 Agenda de Contatos em Python
 
 Projeto de uma agenda de contatos desenvolvido em Python, executado via terminal.
 Permite cadastrar, visualizar, editar e gerenciar contatos de forma simples.
